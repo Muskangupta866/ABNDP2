@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ABND P2</string>
+    <string name="team_A">Team A</string>
+    <string name="number_0">0</string>
+    <string name="team_B">Team B</string>
+    <string name="field_goal">Field Goal</string>
+    <string name="number_6">+6</string>
+    <string name="touch_down">Touchdown</string>
+    <string name="number_3">+3</string>
+    <string name="number_1">+1</string>
+    <string name="number_2">+2</string>
+    <string name="reset">Reset</string>
+    <string name="safety">Safety</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="symbol">-</string>
+<string name="image">downloadtwo</string>
+</resources>
